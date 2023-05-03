@@ -1,0 +1,4 @@
+## Printing Keyboards
+To control an exhibit i was in need of a small "Keyboard" with just a few keys. Expecting to find something on [Thingiverse](https://www.thingiverse.com/) or [Printables](https://www.printables.com/), i started to spend way too much time expecting to find something that fits my needs. Accepting my fate to design a simple box myself, i started reading into open source keyboard firmware like [QMK](https://qmk.fm/). Again, spending more time than reasonable, not without results, but with a way to complex setup in sight. Reconsidering what i was trying to achive, i looked into writing the firmware myself with arduino, and, as it turns out, debouncing the buttons was the hardest part. 
+![finished project](https://github.com/dschie/5buttonKeyboard/blob/main/5%20Button%20Keyboard.jpg)
+Results are on [Pritables](https://www.printables.com/model/468388-5-button-keyboard), source is on [github](https://github.com/dschie/5buttonKeyboard).
